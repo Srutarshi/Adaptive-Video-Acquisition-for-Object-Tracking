@@ -7,4 +7,4 @@ The github code for the following papers are here :-
 
 2. S. Banerjee, H. H. Chopp, J. G. Serra, H. T. Yang, O. Cossairt and A. K. Katsaggelos, "An Adaptive Video Acquisition Scheme for Object Tracking and Its Performance Optimization," in IEEE Sensors Journal, vol. 21, no. 15, pp. 17227-17243, 1 Aug.1, 2021, doi: 10.1109/JSEN.2021.3081351.
 
-**Run main.py** for running the code. 
+Run **main.py** for running the code. 
